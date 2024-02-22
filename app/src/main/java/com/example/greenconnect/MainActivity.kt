@@ -347,11 +347,8 @@ fun GreenConnectForum(navController: NavController, context: Context) {
                 Training(R.drawable.forum_page,
                     R.string.forum_page,
                     R.string.forum_page_desc,
-                    "https://agfuse.com",
+                    "https://www.pabra-africa.org/farmer-cooperatives-transforming-smallholder-livelihood-in-kenya/",
                     navController)
-
-
-
             }
 
         }
@@ -382,28 +379,23 @@ fun GreenConnectLoans(navController: NavController) {
             .fillMaxWidth()
         ){
             items(1){
-                Training(R.drawable.agmis,
+                Training(R.drawable.kenyahighlandsacco,
                     R.string.loan_1,
                     R.string.loan_1_desc,
-                    "https://agsmeisapp.nmfb.com.ng/",
+                    "https://kenyahighlandssacco.co.ke/",
                     navController)
 
 
-                Training(R.drawable.bank_of_agric,
+                Training(R.drawable.bank_of_wakenyapamojasacco,
                     R.string.loan_2,
                     R.string.loan_2_desc,
-                    "https://boanig.com/",
+                    "https://www.wakenyapamojasacco.com/loans/",
                     navController)
 
-                Training(R.drawable.central_bank_of_nigeria,
+                Training(R.drawable.central_bank_of_kenya,
                     R.string.loan_3,
                     R.string.loan_3_desc,
-                    "https://www.cbn.gov.ng/devfin/acgsf.asp",
-                    navController)
-                Training(R.drawable.first,
-                    R.string.loan_4,
-                    R.string.loan_4_desc,
-                    "https://www.firstbanknigeria.com/business/agriculture/commercial-agriculture-credit-scheme/",
+                    "https://www.stima-sacco.com/downloads/loan-application-forms/",
                     navController)
 
             }

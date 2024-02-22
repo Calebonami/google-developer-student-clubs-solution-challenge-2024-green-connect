@@ -1,7 +1,3 @@
-<h1 align="center"> Green Connect 2023 Google Developer Student Club (Gombe State University, Nigeria), Solution Challenge</h1>
-<img align="center" src="https://github.com/umarbrowser/green-connect-2023-gdsc-solution-challenge/blob/master/screenshot/sdgs.png?raw=true" width="100%">
-
-
 ## Introduction 🙋‍♂️
 > Green Connect is a mobile app that helps smallholder farmers in developing countries access markets, training, and financing to increase their agricultural productivity and income can be linked to several United Nations Sustainable Development Goals (SDGs).
 
@@ -46,45 +42,6 @@
 * **Note Keeping** feature that provides farmers with insights on their farming operations, such as crop yields and costs, to help them make more informed decisions.
 
 * **Weather** feature that provide farmers with up-to-date information on the amount and intensity of rainfall in their area, helping them to make informed decisions about when to plant, irrigate, or harvest their crops.
-
-## Download and Install APK File
-> [![Download](https://img.shields.io/badge/Green%20Connect-v1.0.0-brightgreen?style=for-the-badge)](https://github.com/umarbrowser/green-connect-2023-gdsc-solution-challenge/raw/master/build/green-connect.apk)
-* Download the above File to your Android Device
-* Initiate the installation either through the download notification or a file browser.
-* You’ll receive a warning at the bottom of the phone letting you know that you need to give that app permission to install the file.
-* Tap the Settings button to proceed.
-* On the next page, find the app from the previous step and toggle it on.
-* A prompt should pop up, giving you the option to install the app. Go ahead and follow the instructions to install.
-* **Note** — Sometimes, you may need to initiate installation again. For example, if you tap the notification and use your browser to do it, you sometimes need to tap the notification again to get the install prompt after giving the app permission.
-
-## How to build from Source
-
-1. Copy this ```https://github.com/umarbrowser/green-connect-2023-gdsc-solution-challenge.git``` for follow the picture below.
-
-![clone](screenshot/repo.png)
-
-2. Install Lattest version of Android Studio from [https://developer.android.com/studio](https://developer.android.com/studio)
-
-3. Open Android Studio and select **GET FROM VCS**.
-
-4. Choose "Git" from the drop-down menu and paste this ```https://github.com/umarbrowser/green-connect-2023-gdsc-solution-challenge.git``` into the "URL" field.
-
-5. Choose the directory where you want to save the project and click "Clone".
-
-![clone](screenshot/clone.png)
-
-6. Once the cloning process is complete, Android Studio will open the project.
-
-7. Add API key to local.properties.
-```
-# local.properties
-# generate a Google Map Android API Key from Google Cloud and write it below
-GOOGLE_MAPS_API_KEY=<Your Map API Key>
-```
-
-8. Sync your Gradle files to download the necessary dependencies.
-
-9. You should now be able to run the Green Connect by clicking on the "Run" button in Android Studio. If you encounter any issues, make sure that you have the latest version of Android Studio and that your Android SDK is up-to-date. 
 
 ## Application Screenshots
 
